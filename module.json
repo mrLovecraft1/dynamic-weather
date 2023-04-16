@@ -7,7 +7,7 @@
       "name": "Esin A.I."
     }
   ],
-  "scripts": ["src/build/bundle.js"],
+  "scripts": ["build/bundle.js"],
   "version": "1.0.1",
   "manifest": "https://raw.githubusercontent.com/mrLovecraft1/dynamic-weather/master/module.json",
   "download": "https://github.com/mrLovecraft1/dynamic-weather/raw/master/dynamic-weather.zip"
