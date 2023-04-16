@@ -10,5 +10,5 @@
    "scripts": ["src/scripts/main.js"],
    "version": "1.0.0",
    "manifest": "https://raw.githubusercontent.com/mrLovecraft1/dynamic-weather/master/module.json",
-   "download": "https://github.com/theripper93/Combat-Booster/releases/download/3.4/module.zip"
+   "download": "https://github.com/mrLovecraft1/dynamic-weather/blob/master/distr/dynamic-weather.zip"
 }
